@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "WaKAs",
+    "name": "Tanks",
+    "inStock": false,
+    "price": 140,
+    "labels": [
+      "Doll",
+      "Box game"
+    ],
+    "createdAt": 1669127304959
+  },
+  {
+    "_id": "9DgmO",
+    "name": "Soldier",
+    "price": 101,
+    "labels": [
+      "Doll",
+      "Art"
+    ],
+    "createdAt": 1669141081589
+  },
+  {
+    "_id": "Twfah",
+    "name": "Car",
+    "price": 100,
+    "labels": [
+      "Doll"
+    ],
+    "createdAt": 1669141105414
+  },
+  {
+    "_id": "Twfar",
+    "name": "Soldier",
+    "price": 180,
+    "labels": [
+      "Doll"
+    ],
+    "createdAt": 1669146885111
+  }
+]
